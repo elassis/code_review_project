@@ -1,5 +1,5 @@
 # Code Review Project - Microverse
-  *in this project i will perform as code reviewer of my previous work made in the trials which was
+  -in this project i will perform as code reviewer of my previous work made in the trials which was
   part of the proccess of admission for Microverse.
   
 # Objectives
