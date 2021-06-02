@@ -11,7 +11,7 @@ a {
 
 #video {
   width: 800px;
-  height: 500px; 
+  height: 500px;
   display: block;
   margin: auto;
 }
@@ -66,8 +66,8 @@ a {
 
 #email {
   margin-bottom: 1rem;
-  border-radius: .5rem;
-  padding: 1rem 0 1rem 3rem; 
+  border-radius: 0.5rem;
+  padding: 1rem 0 1rem 3rem;
 }
 
 #submit {
@@ -81,12 +81,12 @@ a {
     font-size: 1.8rem;
     margin-right: 2rem;
   }
-  
+
   #email {
     width: 500px;
     font-size: 1rem;
   }
-  
+
   #submit {
     width: 200px;
   }
